@@ -6,8 +6,11 @@ public class principal {
 		// TODO Auto-generated method stub
 		
 		System.out.println("VIVA CHILE");
+	
+		System.out.println("VIVA PERU PE");
 		
 		System.out.println("VIVA CHILE231");
+
 	}
 
 }
