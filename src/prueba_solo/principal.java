@@ -10,7 +10,8 @@ public class principal {
 		System.out.println("VIVA PERU PE");
 		
 		System.out.println("VIVA CHILE231");
-
+		
+		System.out.println("VIVA CRISTO REY");
 	}
 
 }
